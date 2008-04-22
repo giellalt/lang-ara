@@ -1,8 +1,73 @@
 Multichar_Symbols
+
+! For nouns
+@U.ART.PRESENT@ @U.ART.ABSENT@ uN aN iN
+@U.CASE.NOM@ @U.CASE.ACC@ @U.CASE.GEN@
++N +Def +Indef +Pr+ +Art+ +Nom +Acc +Gen
+! For verbs
 ^[ ^] +3P +Masc +Fem
 +Sg +Act +Pass +FormI +FormIII
 
+
 LEXICON Root
+Nouns ;
+Verbs ;
+
+! Nouns
+! =====
+
+
+
+LEXICON Nouns
+        Preposition ;
+
+LEXICON Preposition
+bi+Pr+:bi       Prepmark ;
+               Article ;
+
+LEXICON Prepmark
+@U.CASE.GEN@ Article ;
+
+LEXICON Article
+al+Art+:al Articlemark ;
+          Stems ;
+
+LEXICON Articlemark
+@U.ART.PRESENT@ Stems ;
+
+LEXICON Stems
+kitaab Tag ;
+
+LEXICON Tag
++N: Case ;
+
+LEXICON Case
++Def+Nom:u     MarkNOM ;
++Def+Acc:a     MarkACC ;
++Def+Gen:i     MarkGEN ;
+@U.ART.ABSENT@ IndefCase ;
+
+LEXICON IndefCase
++Indef+Nom:uN MarkNOM ;
++Indef+Acc:aN MarkACC ;
++Indef+Gen:iN MarkGEN ;
+
+LEXICON MarkNOM
+@U.CASE.NOM@ # ;
+
+LEXICON MarkACC
+@U.CASE.ACC@ # ;
+
+LEXICON MarkGEN
+@U.CASE.GEN@ # ;
+
+
+
+
+! Verbs
+! =====
+
+LEXICON Verbs
 LBound ;
 
 LEXICON LBound
