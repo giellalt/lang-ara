@@ -1,0 +1,13 @@
+! Verbs
+! =====
+
+LEXICON Verbs
+LBound ;
+
+LEXICON LBound
+[:^[{ Roots ;
+
+LEXICON Roots
+ktb MergeRight ;
+drs MergeRight ;
+bsl MergeRight ;
