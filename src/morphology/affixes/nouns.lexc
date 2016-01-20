@@ -1,0 +1,43 @@
+!! !!!Nouns
+!  ========
+
+
+LEXICON Nouns
+        Preposition ;
+
+LEXICON Preposition
+bi+Pr+:bi       Prepmark ;
+               Article ;
+
+LEXICON Prepmark
+@U.CASE.GEN@ Article ;
+
+LEXICON Article
+al+Art+:al Articlemark ;
+          Stems ;
+
+LEXICON Articlemark
+@U.ART.PRESENT@ Stems ;
+
+LEXICON Tag
++N: Case ;
+
+LEXICON Case
++Def+Nom:u     MarkNOM ;
++Def+Acc:a     MarkACC ;
++Def+Gen:i     MarkGEN ;
+@U.ART.ABSENT@ IndefCase ;
+
+LEXICON IndefCase
++Indef+Nom:uN MarkNOM ;
++Indef+Acc:aN MarkACC ;
++Indef+Gen:iN MarkGEN ;
+
+LEXICON MarkNOM
+@U.CASE.NOM@ # ;
+
+LEXICON MarkACC
+@U.CASE.ACC@ # ;
+
+LEXICON MarkGEN
+@U.CASE.GEN@ # ;

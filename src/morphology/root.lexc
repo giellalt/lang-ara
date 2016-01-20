@@ -1,0 +1,41 @@
+! Divvun & Giellatekno - open source grammars for Arabic language
+! Copyright © 2015 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@uit.no or feedback@divvun.no
+
+! ========================================================================== !
+! !!            !!!Arabic morphological analyser                      !
+! ========================================================================== !
+!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
+ 
+
+Multichar_Symbols
+
+!! !!Analysis symbols
+!! ----------------
+!! The morphological analyses of wordforms for the Arabic
+!! language are presented in this system in terms of the following symbols.
+!! (It is highly suggested to follow existing standards when adding new tags).
+
+!! For nouns:
+@U.ART.PRESENT@ @U.ART.ABSENT@ uN aN iN
+@U.CASE.NOM@ @U.CASE.ACC@ @U.CASE.GEN@
++N +Def +Indef +Pr+ +Art+ +Nom +Acc +Gen
+
+!! For verbs:
+^[ ^] +3P +Masc +Fem
++Sg +Act +Pass +FormI +FormIII
+
+
+LEXICON Root
+Nouns ;
+Verbs ;
