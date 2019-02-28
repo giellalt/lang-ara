@@ -35,6 +35,7 @@ Multichar_Symbols
 ^[ ^] +3P +Masc +Fem
 +Sg +Act +Pass +FormI +FormIII
 
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 
 LEXICON Root
 Nouns ;
