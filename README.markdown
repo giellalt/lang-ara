@@ -10,7 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ara)](https://github.com/giellalt/lang-ara/issues)
- [![Build Status](https://github.com/giellalt/lang-ara/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-ara/actions)
+[![Build Status](https://github.com/giellalt/lang-ara/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-ara/actions)
+[![License](https://img.shields.io/github/license/giellalt/template-lang-ara)](https://raw.githubusercontent.com/giellalt/lang-ara/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-ara)
 for the Arabic language by using the [Divvun Installer](http://divvun.no)
