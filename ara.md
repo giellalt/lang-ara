@@ -1,3 +1,46 @@
+# Nouns
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+=================================== !
+The Arabic morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
 
 # Arabic morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
@@ -14,6 +57,60 @@ For nouns:
 For verbs:
 
  * +Symbol = independent symbols in the text stream, like £, €, ©
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
