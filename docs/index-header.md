@@ -5,11 +5,11 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ara)](https://github.com/giellalt/lang-ara/issues)
 [![Build status](https://github.com/giellalt/lang-ara/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ara/actions)
 
-This page documents the work on the **Arabic language model**. 
+This page documents the work on the [Arabic language model](https://github.com/giellalt/lang-ara). 
 
 # Project documentation
 
-* Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+* (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
 
 # In-source documentation
 
