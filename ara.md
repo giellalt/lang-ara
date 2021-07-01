@@ -199,7 +199,7 @@
 * Sets for verbs
 
 
-    - V is all readings with a V tag in them, REAL-V should
+- V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
@@ -605,7 +605,26 @@ These were the set types.
 
 
 
-# Nouns
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ara/blob/main/../src/cg3/functions.cg3)</small>
+# Arabic morphological analyser                      !
+INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
+
+
+
+## Analysis symbols
+The morphological analyses of wordforms for the Arabic
+language are presented in this system in terms of the following symbols.
+(It is highly suggested to follow existing standards when adding new tags).
+
+For nouns:
+
+For verbs:
+
+ * +Symbol = independent symbols in the text stream, like £, €, ©
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/root.lexc)</small># Nouns
 
 
 
@@ -618,14 +637,16 @@ These were the set types.
 
 
 
-
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/nouns.lexc)</small>
 # Symbol affixes
 
 
 
 
 
-=================================== !
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/symbols.lexc)</small>=================================== !
 The Arabic morphophonological/twolc rules file !
 =================================== !
 
@@ -648,24 +669,8 @@ The Arabic morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
-
-# Arabic morphological analyser                      !
-INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
-
-
-
-## Analysis symbols
-The morphological analyses of wordforms for the Arabic
-language are presented in this system in terms of the following symbols.
-(It is highly suggested to follow existing standards when adding new tags).
-
-For nouns:
-
-For verbs:
-
- * +Symbol = independent symbols in the text stream, like £, €, ©
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/phonology.twolc)</small>
 
 
 
@@ -719,7 +724,8 @@ For verbs:
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
 
-
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 
 We describe here how abbreviations are in Arabic are read out, e.g.
@@ -735,8 +741,9 @@ For example:
  * esim.:esimerkiksi # ; 
 
 
-
-      [ L A N G U A G E ]  G R A M M A R   C H E C K E R
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+[ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
 
 
@@ -1146,3 +1153,5 @@ expression **WORD - premodifiers**.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-ara/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>
