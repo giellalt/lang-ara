@@ -624,29 +624,7 @@ For verbs:
  * +Symbol = independent symbols in the text stream, like £, €, ©
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/root.lexc)</small># Nouns
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/symbols.lexc)</small>=================================== !
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/root.lexc)</small>=================================== !
 The Arabic morphophonological/twolc rules file !
 =================================== !
 
@@ -671,6 +649,28 @@ The Arabic morphophonological/twolc rules file !
 * examples:*
 * * *
 <small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/phonology.twolc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/symbols.lexc)</small># Nouns
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/nouns.lexc)</small>
 
 
 
