@@ -606,25 +606,7 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ara/blob/main/../src/cg3/functions.cg3)</small>
-# Arabic morphological analyser                      !
-INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
-
-
-
-## Analysis symbols
-The morphological analyses of wordforms for the Arabic
-language are presented in this system in terms of the following symbols.
-(It is highly suggested to follow existing standards when adding new tags).
-
-For nouns:
-
-For verbs:
-
- * +Symbol = independent symbols in the text stream, like £, €, ©
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/root.lexc)</small>=================================== !
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ara/blob/main/../src/cg3/functions.cg3)</small>=================================== !
 The Arabic morphophonological/twolc rules file !
 =================================== !
 
@@ -648,15 +630,7 @@ The Arabic morphophonological/twolc rules file !
 
 * examples:*
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/phonology.twolc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/symbols.lexc)</small># Nouns
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/phonology.twolc)</small># Nouns
 
 
 
@@ -671,6 +645,32 @@ The Arabic morphophonological/twolc rules file !
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/symbols.lexc)</small>
+# Arabic morphological analyser                      !
+INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
+
+
+
+## Analysis symbols
+The morphological analyses of wordforms for the Arabic
+language are presented in this system in terms of the following symbols.
+(It is highly suggested to follow existing standards when adding new tags).
+
+For nouns:
+
+For verbs:
+
+ * +Symbol = independent symbols in the text stream, like £, €, ©
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/root.lexc)</small>
 
 
 
