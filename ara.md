@@ -630,29 +630,7 @@ The Arabic morphophonological/twolc rules file !
 
 * examples:*
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/phonology.twolc)</small># Nouns
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/phonology.twolc)</small>
 # Arabic morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
 
@@ -671,6 +649,28 @@ For verbs:
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/root.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/symbols.lexc)</small># Nouns
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/nouns.lexc)</small>
 
 
 We describe here how abbreviations are in Arabic are read out, e.g.
