@@ -606,7 +606,31 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ara/blob/main/../src/cg3/functions.cg3)</small>
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ara/blob/main/../src/cg3/functions.cg3)</small>=================================== !
+The Arabic morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/phonology.twolc)</small>
 # Arabic morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
 
@@ -646,31 +670,7 @@ For verbs:
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/nouns.lexc)</small>=================================== !
-The Arabic morphophonological/twolc rules file !
-=================================== !
-
-
-
-
-
-
-
-
-* *primus%>s*
-* *primus00*
-
-
-* examples:*
-
-* examples:*
-
-
-* examples:*
-
-* examples:*
-* * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/affixes/nouns.lexc)</small>
 
 
 We describe here how abbreviations are in Arabic are read out, e.g.
