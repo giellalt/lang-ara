@@ -2,8 +2,6 @@
 # Arabic morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Arabic LANGUAGE.
 
-
-
 ## Analysis symbols
 The morphological analyses of wordforms for the Arabic
 language are presented in this system in terms of the following symbols.
@@ -16,4 +14,8 @@ For verbs:
 * +Symbol = independent symbols in the text stream, like £, €, ©
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ara/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-ara/blob/main/src/fst/root.lexc)</small>
+
+---
+
