@@ -30,7 +30,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/aradoc/index.html>
+- [Language specific documentation](https://giellalt.github.io/lang-ara/)
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
