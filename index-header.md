@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ara%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-ara)](https://github.com/giellalt/lang-ara/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ara)](https://github.com/giellalt/lang-ara/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ara/main/badge.svg)](https://github.com/giellalt/lang-ara/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-ara?label=CI)](https://builds.giellalt.org/pipelines/lang-ara/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/stan1318)
 
 This page documents the work on the [Arabic language model](https://github.com/giellalt/lang-ara). 
 
