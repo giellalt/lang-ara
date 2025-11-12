@@ -1,6 +1,3 @@
-spellername = "Arabic"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "07F65A41-7800-41CD-92BC-7CE3927C6F8F", kind = "nsis" },
     { value = "4C98BD40-0248-4314-B820-0712CB4AF0B3", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Arabic"
+version = "0.1.1"
+
+[package.grammar]
+name = "Arabic"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Arabic"
+version = "0.1.0"
